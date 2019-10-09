@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OutofRange_PoCT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{647000A6-5705-491C-A3BB-A862E67E9AC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OutofRange_PoCT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OutofRange_PoCTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{335B23EC-6E53-490E-9D63-9F792BA4898F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OutofRange_PoCT">
+      <UniqueIdentifier>{8CB9F04A-6864-474A-BF75-909831485D96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OutofRange_PoCT\OutofRange_PoCT.Build.cs">
+      <Filter>Source\OutofRange_PoCT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OutofRange_PoCT\OutofRange_PoCT.cpp">
+      <Filter>Source\OutofRange_PoCT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutofRange_PoCT\OutofRange_PoCT.h">
+      <Filter>Source\OutofRange_PoCT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OutofRange_PoCT\OutofRange_PoCTGameModeBase.cpp">
+      <Filter>Source\OutofRange_PoCT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutofRange_PoCT\OutofRange_PoCTGameModeBase.h">
+      <Filter>Source\OutofRange_PoCT</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

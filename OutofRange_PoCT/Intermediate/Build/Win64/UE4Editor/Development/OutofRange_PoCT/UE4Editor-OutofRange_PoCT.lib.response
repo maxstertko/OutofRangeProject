@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OutofRange_PoCT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\OutofRange_PoCTEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\OutofRange_PoCT.cpp.obj"
+"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\OutofRange_PoCTGameModeBase.cpp.obj"
+"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\OutofRange_PoCT.init.gen.cpp.obj"
+"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\OutofRange_PoCTGameModeBase.gen.cpp.obj"
+"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\Default.rc2.res"
+/OUT:"C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\UE4Editor-OutofRange_PoCT.lib"
+/INCLUDE:IMPLEMENT_MODULE_OutofRange_PoCT
