@@ -1,9 +1,0 @@
-C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\Definitions.OutofRange_PoCT.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Source\OutofRange_PoCT/OutofRange_PoCTGameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\maxst\onedrive\documents\unreal projects\outofrange_poct\intermediate\build\win64\ue4editor\inc\outofrange_poct\OutofRange_PoCTGameModeBase.generated.h
