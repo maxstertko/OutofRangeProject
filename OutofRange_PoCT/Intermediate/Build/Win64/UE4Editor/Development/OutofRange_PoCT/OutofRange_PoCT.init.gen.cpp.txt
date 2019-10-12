@@ -1,3 +1,0 @@
-C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\Definitions.OutofRange_PoCT.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

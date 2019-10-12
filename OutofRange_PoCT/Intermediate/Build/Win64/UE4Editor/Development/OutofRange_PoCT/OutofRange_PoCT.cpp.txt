@@ -1,2 +1,0 @@
-C:\Users\maxst\OneDrive\Documents\Unreal Projects\OutofRange_PoCT\Intermediate\Build\Win64\UE4Editor\Development\OutofRange_PoCT\Definitions.OutofRange_PoCT.h
-c:\users\maxst\onedrive\documents\unreal projects\outofrange_poct\source\outofrange_poct\OutofRange_PoCT.h
